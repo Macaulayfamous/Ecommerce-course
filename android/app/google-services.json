@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320017303365",
+    "project_id": "ecommerce-course-eb7ef",
+    "storage_bucket": "ecommerce-course-eb7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320017303365:android:dc25dbc16626ecf327a02c",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320017303365-jdhr42niiineho3j2f7jnrf9jvir85jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0nQj8uRy9MRyJolQpb8tFHxsbz2lwJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320017303365-jdhr42niiineho3j2f7jnrf9jvir85jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
